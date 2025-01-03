@@ -5,7 +5,7 @@ Here’s a template for the description of your **PBIX file** for a Git reposito
 `Visualization.pbix`
 
 #### **Purpose:**  
-This Power BI report provides a comprehensive visualization of [insert key focus of the report, e.g., "production performance metrics," "sales trends," "customer insights," etc.]. It is designed to aid stakeholders in making data-driven decisions by presenting key metrics, trends, and actionable insights.
+This Power BI report provides a comprehensive visualization , e.g., "production performance metrics," "sales trends," "customer insights," etc.]. It is designed to aid stakeholders in making data-driven decisions by presenting key metrics, trends, and actionable insights.
 
 #### **Key Features:**  
 - **Dashboards and Visualizations:**  
