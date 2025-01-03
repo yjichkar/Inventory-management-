@@ -27,8 +27,4 @@ This Power BI report provides a comprehensive visualization of [insert key focus
 3. Interact with the visualizations to explore the data and derive insights.  
 
 #### **Customization:**  
-The report can be tailored to include additional metrics or data sources as needed. Contact [point of contact] for further customization or enhancements.
-
-#### **Versioning:**  
-- Initial Version: [Date]  
-- Updates: [Include a summary of any changes if applicable].  
+The report can be tailored to include additional metrics or data sources as needed. 
